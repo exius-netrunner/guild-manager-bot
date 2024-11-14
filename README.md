@@ -1,6 +1,12 @@
-**Upload Steps:**
+**Default Setup:**
 
-_If you want to use a non-root account, you'll need to modify the user in the server-setup script._
+By default, the setup script assumes you're using a root account, to update this make the following changes:
+
+1. user=root [Change root to your user - Line 46]
+2. HOME='/home/root' [Change root to your user - Line 47]
+3. Save the file
+
+**Upload Steps:**
 
 1. From root account, upload the files to a folder called /home/guild-manager on ubuntu live server
 2. Run chmod +x server-setup.sh
