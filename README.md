@@ -1,6 +1,6 @@
-**Default Setup:**
+**Default Installation:**
 
-By default, the setup script assumes you're using a root account, to update this you can make the following changes:
+The server-setup script assumes you're using a root account, to update this you can make the following changes:
 
 1. user=root [Change root to your user - Line 46]
 2. HOME='/home/root' [Change root to your user - Line 47]
