@@ -1,6 +1,6 @@
 **Upload Steps:**
 
-**_If you want to use a non-root account, you'll need to modify the user in the server-setup script._**
+_If you want to use a non-root account, you'll need to modify the user in the server-setup script._
 
 1. From root account, upload the files to a folder called /home/guild-manager on ubuntu live server
 2. Run chmod +x server-setup.sh
