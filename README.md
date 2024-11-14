@@ -1,6 +1,6 @@
 **Default Setup:**
 
-By default, the setup script assumes you're using a root account, to update this make the following changes:
+By default, the setup script assumes you're using a root account, to update this you can make the following changes:
 
 1. user=root [Change root to your user - Line 46]
 2. HOME='/home/root' [Change root to your user - Line 47]
@@ -8,7 +8,7 @@ By default, the setup script assumes you're using a root account, to update this
 
 **Upload Steps:**
 
-1. From root account, upload the files to a folder called /home/guild-manager on ubuntu live server
+1. Upload the files to a folder called /home/guild-manager on ubuntu live server
 2. Run chmod +x server-setup.sh
 3. Run ./server-setup.sh
 
