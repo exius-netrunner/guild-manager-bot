@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/guiild-manager.iml" filepath="$PROJECT_DIR$/.idea/guiild-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/guild-manager.iml" filepath="$PROJECT_DIR$/.idea/guild-manager.iml" />
     </modules>
   </component>
 </project>
