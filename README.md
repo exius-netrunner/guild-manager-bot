@@ -1,6 +1,6 @@
 **Upload Steps:**
 
-1. Upload guild-manager to /home folder on ubuntu live server
+1. Upload the files to /home/guild-manager folder on ubuntu live server
 2. Run chmod +x server-setup.sh
 3. Run ./server-setup.sh
 
