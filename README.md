@@ -1,4 +1,8 @@
-**Default Installation:**
+**Docker Installation:**
+
+1. Run the docker-compose.yml
+
+**Automated Linux Installation:**
 
 The server-setup script assumes you're using a root account, to update this you can make the following changes:
 
