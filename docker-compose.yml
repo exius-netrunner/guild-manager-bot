@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  bot:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: guild-manager
+    container_name: guild-manager
+    command: ["python", "bot.py"]
+    restart: always
