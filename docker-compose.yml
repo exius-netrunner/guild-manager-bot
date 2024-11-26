@@ -8,4 +8,5 @@ services:
     image: guild-manager
     container_name: guild-manager
     command: ["python", "bot.py"]
-    restart: always
+    network_mode: bridge
+    restart: unless-stopped
